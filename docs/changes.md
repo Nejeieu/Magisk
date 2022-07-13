@@ -556,7 +556,7 @@
 - [General] Remove bundled busybox because it casues a lot of issues
 - [General] Unlock all block devices for read-write support instead of emmc only (just figured not all devices uses emmc lol)
 - [Scripts] Run all ext4 image operations through magisk binary in flash scripts
-- [Scripts] Updated scripts to use magisk native commands to increase compatibility
+- [Scripts] Updated scripts to use magisk native commands to increase compatibilityماجيسك/المستندات/ التغييرات. md
 - [Scripts] Add addon.d survival support
 - [Scripts] Introduce `util_functions.sh`, used as a global shell script function source for all kinds of installation
 - [MagiskBoot] Moved boot patch logic into magiskboot binary
